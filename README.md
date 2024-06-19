@@ -57,4 +57,4 @@ cv_env\Scripts\activate
 ## 기여
 
 이 프로젝트에 대한 기여와 피드백은 언제나 환영합니다. 문제나 개선 사항이 있다면 이슈를 열어주시기 바랍니다.
-연락 kss19558@naver.com
+연락 ksb19558@naver.com
